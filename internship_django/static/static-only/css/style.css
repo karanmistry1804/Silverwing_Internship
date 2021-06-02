@@ -868,7 +868,7 @@ h1 {
 	margin-bottom: 30px;
 }
 .bar li .bar-wrap {
-	background: #79787e;
+	background: #797871;
 }
 .bar li span {
 	background: #26252a;
@@ -957,7 +957,7 @@ h1 {
 	-webkit-transition-property: transform;
 	transition-property: transform;
 	-webkit-transition-duration: 0.3s;
-	transition-duration: 0.3s;
+	transition-duration: 0.1s;
 	-webkit-transition-timing-function: ease-out;
 	transition-timing-function: ease-out;
 }
